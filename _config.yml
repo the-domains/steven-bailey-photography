@@ -1,6 +1,6 @@
 name: Steven Bailey Photography
 favicon: null
-layout_spectrum: 0.5115
+layout_spectrum: 0
 typography_spectrum: 0.273
 title: Steven Bailey Photography
 cta:
@@ -22,7 +22,7 @@ color:
     - '#595959'
     - '#7d7d7d'
     - '#c5c5c5'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.411165168043226

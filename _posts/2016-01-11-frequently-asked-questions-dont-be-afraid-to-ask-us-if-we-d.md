@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "FREQUENTLY ASKED QUESTIONS DON'T BE AFRAID TO ASK US IF WE DON'T ANSWER IT HERE!  ARE YOU TRUSTWORTHY? We have been covering weddings for over 5 years and have "
-datePublished: '2016-01-11T23:51:19.262Z'
-dateModified: '2016-01-11T23:51:15.375Z'
+datePublished: '2016-01-11T23:54:09.958Z'
+dateModified: '2016-01-11T23:54:05.365Z'
 author: []
 title: "FREQUENTLY ASKED QUESTIONS DON'T BE AFRAID TO ASK US IF WE DON'T ANSWER IT HERE!\_"
 sourcePath: _posts/2016-01-11-frequently-asked-questions-dont-be-afraid-to-ask-us-if-we-d.md

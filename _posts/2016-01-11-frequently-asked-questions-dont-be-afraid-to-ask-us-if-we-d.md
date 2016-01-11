@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.stevenbaileyphotography.co.uk/faq/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "FREQUENTLY ASKED QUESTIONS DON'T BE AFRAID TO ASK US IF WE DON'T ANSWER IT HERE!  ARE YOU TRUSTWORTHY? We have been covering weddings for over 5 years and have "
-datePublished: '2016-01-11T23:47:38.203Z'
-dateModified: '2016-01-11T23:47:33.237Z'
+datePublished: '2016-01-11T23:51:02.248Z'
+dateModified: '2016-01-11T23:50:59.254Z'
 author: []
 title: "FREQUENTLY ASKED QUESTIONS DON'T BE AFRAID TO ASK US IF WE DON'T ANSWER IT HERE!\_"
 sourcePath: _posts/2016-01-11-frequently-asked-questions-dont-be-afraid-to-ask-us-if-we-d.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.stevenbaileyphotography.co.uk
   url: null
   favicon: null
+url: frequently-asked-questions-dont-be-afraid-to-ask-us-if-we-d/index.html
 _context: 'http://schema.org'
 _type: Article
 

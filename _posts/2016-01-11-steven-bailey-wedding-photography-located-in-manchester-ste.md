@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'STEVEN BAILEY WEDDING PHOTOGRAPHY LOCATED IN MANCHESTER, STEVEN BAILEY PHOTOGRAPHY ARE PHOTOGRAPHERS WHO REALLY TAKE PRIDE IN YOUR WEDDING. Founded in 2007, wit'
-datePublished: '2016-01-12T00:01:47.624Z'
-dateModified: '2016-01-12T00:01:44.286Z'
+datePublished: '2016-01-12T00:04:24.336Z'
+dateModified: '2016-01-12T00:03:16.349Z'
 author: []
 title: "STEVEN BAILEY WEDDING PHOTOGRAPHY LOCATED IN MANCHESTER, STEVEN BAILEY PHOTOGRAPHY ARE PHOTOGRAPHERS WHO REALLY TAKE PRIDE IN YOUR WEDDING.\_"
 sourcePath: _posts/2016-01-11-steven-bailey-wedding-photography-located-in-manchester-ste.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2662271-2e9c-4511-953b-24b3ca3f3fde.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14f122ff1bca8b05423b668024b076946bd2f8ee.jpg)
 
 # STEVEN BAILEY WEDDING PHOTOGRAPHY LOCATED IN MANCHESTER, STEVEN BAILEY PHOTOGRAPHY ARE PHOTOGRAPHERS WHO REALLY TAKE PRIDE IN YOUR WEDDING. 
 

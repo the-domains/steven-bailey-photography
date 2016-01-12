@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home
-datePublished: '2016-01-12T00:07:53.268Z'
-dateModified: '2016-01-12T00:07:49.324Z'
+datePublished: '2016-01-12T00:10:27.697Z'
+dateModified: '2016-01-12T00:10:23.707Z'
 author: []
 title: "STEVEN BAILEY WEDDING PHOTOGRAPHY LOCATED IN MANCHESTER, STEVEN BAILEY PHOTOGRAPHY ARE PHOTOGRAPHERS WHO REALLY TAKE PRIDE IN YOUR WEDDING.\_"
 sourcePath: _posts/2016-01-11-steven-bailey-wedding-photography-located-in-manchester-ste.md

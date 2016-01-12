@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Steven Bailey Photography]]></title>
+        <description><![CDATA[Steven Bailey Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 00:17:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7a8f79546ae5882157082be9a6f1613913a19eb.jpg"></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">1cf0d724-ffcf-4f95-a4f6-3a0bceaf5445</guid>
+            <pubDate>Tue, 12 Jan 2016 00:17:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
